@@ -37,7 +37,7 @@ The driver connects automatically, completes one lap, and saves a summary to `ex
 | Evidence file | `evidence/best_run_summary.json` |
 
 The lap time shown above is from the simulator's internal sensor timer.
-The TORCS-displayed final time on screen is the authoritative competition figure —
+The TORCS-displayed final time on screen is the authoritative competition figure —01:47:62
 record that value when you run the driver for your submission.
 
 ---
